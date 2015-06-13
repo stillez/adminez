@@ -9,5 +9,10 @@
             "email": "yoblooc295@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Adminez\\": "src/Adminez/"
+        }
+    }
 }
