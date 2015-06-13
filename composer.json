@@ -1,0 +1,14 @@
+{
+    "name": "stillez/adminez",
+    "description": "Just a Beginning",
+    "type": "sdsdsd",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "stillez",
+            "email": "yoblooc295@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
